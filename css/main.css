@@ -190,6 +190,11 @@ footer p {
 .blogpost-main-container article h1 {
     font-size: 3.5rem;
 }
+#post-container-insignia {
+    width: 220px;
+    height: 220px;
+    margin-bottom: 30px;
+}
 
 .contact-main-container {
     width: 100%;
